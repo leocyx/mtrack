@@ -1,5 +1,5 @@
 var M = module.export = {}
-
+var total = 0
 var eat = {
     'breakfast':55
     'lunch':95
