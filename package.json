@@ -1,0 +1,17 @@
+{
+  "name": "mtrack",
+  "version": "0.1.0",
+  "description": "A simple money track system",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^4.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leocyx/signup"
+  },
+  "license": "MIT"
+}
