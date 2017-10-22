@@ -1,4 +1,4 @@
-var M = module.export = {}
+var M = module.exports = {}
 var total = 0
 var eat = {
     'breakfast':55,
