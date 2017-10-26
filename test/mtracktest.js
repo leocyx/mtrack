@@ -7,10 +7,10 @@ describe('mtrack', function() {
             assert.equal('245', M.mtrack('dinner', 'zoo_ticket', 'mrt'))
         })
         it("在M.mtrack(eat, play, traffic)將花費金額相加", function(){
-            assert.equal('505', M.mtrack('lunch', 'zoo_ticket', 'mrt'))
+            assert.equal('260', M.mtrack('lunch', 'zoo_ticket', 'mrt'))
         })
         it("在M.mtrack(eat, play, traffic)將花費金額相加", function(){
-            assert.equal('2310', M.mtrack('breakfast', 'movie_ticket', 'aircraft'))
+            assert.equal('1805', M.mtrack('breakfast', 'movie_ticket', 'aircraft'))
         })
         
     })
