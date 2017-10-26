@@ -1,9 +1,10 @@
 var M = module.exports = {}
 var total = 0
+
 var eat = {
     'breakfast':55,
     'lunch':95,
-   ' dinner':80
+    'dinner':80
 }
 
 var play = {
@@ -18,6 +19,17 @@ var traffic = {
 }
 
 
-M.mtrack = function(eat_select, paly_select, traffic_select){
-    
+M.mtrack = function(eat_select, play_select, traffic_select){
+		
+		
+		 total = eat[eat_select] + play[play_select] + traffic[traffic_select];
+		 return total;
+
 }
+
+
+
+
+
+
+
