@@ -1,6 +1,6 @@
 {
   "name": "mtrack",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "A simple money track system",
   "dependencies": {},
   "devDependencies": {
