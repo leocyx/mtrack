@@ -22,7 +22,7 @@ var traffic = {
 M.mtrack = function(eat_select, play_select, traffic_select){
 		
 		
-		 total = eat[eat_select] + play[play_select] + traffic[traffic_select];
+		 total += eat[eat_select] + play[play_select] + traffic[traffic_select];
 		 return total;
 
 }
