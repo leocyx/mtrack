@@ -1,7 +1,8 @@
 {
   "name": "mtrack",
   "version": "0.0.1",
-  "description": "A simple money track system",
+  "description": "計算花費",
+  "main": "mtrack.js",
   "dependencies": {},
   "devDependencies": {
     "mocha": "^4.0.0"
@@ -11,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/leocyx/signup"
+    "url": "https://github.com/leocyx/mtrack"
   },
   "license": "MIT"
 }
