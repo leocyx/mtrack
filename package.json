@@ -1,8 +1,8 @@
-{
+﻿{
   "name": "mtrack",
   "version": "0.0.1",
   "description": "計算花費",
-  "main": "main.js",
+  "main": "mtrack.js",
   "dependencies": {
     "electron": "^1.7.10"
   },
